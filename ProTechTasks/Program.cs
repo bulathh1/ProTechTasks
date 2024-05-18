@@ -8,6 +8,7 @@ namespace ProTechTasks
         {
             char[] arr = s.ToCharArray();
             int b = 5;
+            int w = 0;
             Array.Reverse(arr);
             return new string(arr);
         }
