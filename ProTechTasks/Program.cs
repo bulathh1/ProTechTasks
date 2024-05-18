@@ -7,7 +7,6 @@ namespace ProTechTasks
         private static string Reverse(string s)
         {
             char[] arr = s.ToCharArray();
-            int b = 5;
             Array.Reverse(arr);
             return new string(arr);
         }
