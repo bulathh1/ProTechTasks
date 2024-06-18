@@ -1,0 +1,14 @@
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\bin\Debug\net8.0\ProTechTask2.exe
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\bin\Debug\net8.0\ProTechTask2.deps.json
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\bin\Debug\net8.0\ProTechTask2.runtimeconfig.json
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\bin\Debug\net8.0\ProTechTask2.dll
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\bin\Debug\net8.0\ProTechTask2.pdb
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ProTechTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ProTechTask2.AssemblyInfoInputs.cache
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ProTechTask2.AssemblyInfo.cs
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ProTechTask2.csproj.CoreCompileInputs.cache
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ProTechTask2.dll
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\refint\ProTechTask2.dll
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ProTechTask2.pdb
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ProTechTask2.genruntimeconfig.cache
+C:\Users\bulathh1\Documents\.4semestr\practica\ProTechTask2\ProTechTask2\obj\Debug\net8.0\ref\ProTechTask2.dll
