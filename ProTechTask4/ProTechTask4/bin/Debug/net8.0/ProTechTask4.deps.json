@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProTechTask4/1.0.0": {
+        "runtime": {
+          "ProTechTask4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProTechTask4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
