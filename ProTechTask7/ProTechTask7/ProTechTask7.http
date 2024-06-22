@@ -1,0 +1,6 @@
+@ProTechTask7_HostAddress = http://localhost:5128
+
+GET {{ProTechTask7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
